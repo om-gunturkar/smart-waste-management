@@ -1,0 +1,15 @@
+venv/
+env/
+tf_env_312/
+venv310/
+.venv/
+
+*.h5
+*.keras
+*.pb
+
+__pycache__/
+*.pyc
+
+dataset/
+train_model.py
