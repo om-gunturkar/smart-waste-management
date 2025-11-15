@@ -1,0 +1,25 @@
+# Python env
+backend/venv/
+backend/venv310/
+backend/tf_env_312/
+backend/__pycache__/
+
+# Dataset (do not upload)
+backend/dataset/
+
+# Node modules
+frontend/node_modules/
+
+# Build files
+frontend/dist/
+
+# Python cache
+**/__pycache__/
+*.pyc
+
+# System
+.DS_Store
+Thumbs.db
+
+backend/model/*.h5
+backend/model/*.keras
